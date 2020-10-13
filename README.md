@@ -20,7 +20,7 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 5. Utilizar o APP INVENTOR
 # Datas dos Sprints:
 1. -****Sprint 0 - Início: 07/09/2020 Entrega: 27/09/2020 (Executado)****
-2. -****Sprint 1 - Início: 28/09/2020 Entrega: 17/10/2020****
+2. -****Sprint 1 - Início: 28/09/2020 Entrega: 18/10/2020****
 3. -****Sprint 2 - Início: 19/10/2020 Entrega: 08/11/2020****
 4. -****Sprint 3 - Início: 09/11/2020 Entrega: 29/11/2020****
 
