@@ -1,5 +1,5 @@
-#PROJETO INTEGRADOR - FATEC -São Jose do Campos:
-#Grupo Mobteam:
+#PROJETO INTEGRADOR - FATEC -São Jose do Campos
+##Grupo Mobteam
 Anderson Oliveira da Silva Junior 
 Carlos Fernando de Souza
 Danilo Silva Lima
