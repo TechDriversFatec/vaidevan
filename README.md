@@ -25,7 +25,7 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 4. -****Sprint 3 - Início: 09/11/2020 Entrega: 29/11/2020****
 5. -****Apresentação final: 30/11/2020 a 06/12/2020****
 
-# Tecnologia utilizada
+# Tecnologia
 
 * App Inventor - Aplicativo de código aberto, originalmente criado pala Google,hoje é mantido pelo Massachusetts Institute of Technology(MIT). É um ambiente de programação visual baseada em blocos que facilita a criação de aplicativos complexos até para uma pessoa leiga.
 * MIT AI2 Companion - Aplicativo emulador para Android.
