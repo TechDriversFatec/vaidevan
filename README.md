@@ -32,11 +32,15 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 * aiStater - Aplicativo aiStarter (emulador de Sistema Android para PC).
 
 # Sprint 0 -- Tela inicial de cadastro - 
-* Demonstração da tela inicial com login no aplicativo
-* Demonstração do cadastro inicial do usuarios (Motorista e Passageiros)
+* **Demonstração da tela inicial com login no aplicativo**
+* **Demonstração do cadastro inicial do usuarios (Motorista e Passageiros)**
 
 # Sprint 1 -
-
+1. **Entrega da Tela de gerenciar destinos**
+2. **Criada tela de cadastro de destino**
+3. **Motorista - É possível fazer o cadastro, alterar e excluir o destino de um passageiro.**
+4. **São listados os destinos cadastrado através de consulta no banco Firebase.**
+5. **Passageiro - É possível fazer apenas o cadastro do destino.**
 # Sprint 2 -
 
 # Sprint 3 -
