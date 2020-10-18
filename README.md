@@ -36,7 +36,7 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 * **Demonstração do cadastro inicial do usuarios (Motorista e Passageiros)**
 
 # Sprint 1 -
-1. **Entrega da Tela de gerenciar destinos**
+1. **Entrega da tela de gerenciar destinos**
 2. **Criada tela de cadastro de destino**
 3. **Motorista - É possível fazer o cadastro, alterar e excluir o destino de um passageiro.**
 4. **São listados os destinos cadastrado através de consulta no banco Firebase.**
