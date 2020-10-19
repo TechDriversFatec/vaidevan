@@ -1,3 +1,4 @@
+
 # PROJETO INTEGRADOR - FATEC -São Jose do Campos
 ## Grupo Mobteam
 * Anderson Oliveira da Silva Junior 
@@ -26,7 +27,7 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 5. -****Apresentação final: 30/11/2020 a 06/12/2020****
 
 # Tecnologia
-
+![logoappinventor](https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png "logoappinventor")
 * App Inventor - Aplicativo de código aberto, originalmente criado pala Google,hoje é mantido pelo Massachusetts Institute of Technology(MIT). É um ambiente de programação visual baseada em blocos que facilita a criação de aplicativos complexos até para uma pessoa leiga.
 * MIT AI2 Companion - Aplicativo emulador para Android.
 * aiStater - Aplicativo aiStarter (emulador de Sistema Android para PC).
