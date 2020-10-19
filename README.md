@@ -1,4 +1,4 @@
-
+![](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 # PROJETO INTEGRADOR - FATEC -São Jose do Campos
 ## Grupo Mobteam
 * Anderson Oliveira da Silva Junior 
