@@ -31,7 +31,7 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 * MIT AI2 Companion - Aplicativo emulador para Android.
 * aiStater - Aplicativo aiStarter (emulador de Sistema Android para PC).
 
-# Sprint 0 -- Tela inicial de cadastro - 
+# <font color="green"> Some green text </font> print 0 -- Tela inicial de cadastro - 
 * **Demonstração da tela inicial com login no aplicativo**
 * **Demonstração do cadastro inicial do usuarios (Motorista e Passageiros)**
 
