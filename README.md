@@ -63,6 +63,8 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 3. **Estilizar as telas feitas até o momento de forma definitiva**
 4. **Documentar de forma tecnica todo o codigo e banco com comentarios nos trechos e blocos no app inventor.**
 
+![novo_login](https://uploaddeimagens.com.br/images/002/927/505/original/novo_login.png?1603214614 "novo_login") ![novo_cadastro](https://uploaddeimagens.com.br/images/002/927/512/full/novo_cadastro.png?1603214675 "novo_cadastro")
+
 
 # <h2> Sprint 3 -
 1. **Entrega da definição de melhor rota calculada pelo App.**
