@@ -55,6 +55,10 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 4. **São listados os destinos cadastrado através de consulta no banco Firebase.**
 5. **Passageiro - É possível fazer apenas o cadastro do destino.**
 
+
+![novo_login](https://uploaddeimagens.com.br/images/002/927/505/original/novo_login.png?1603214614 "novo_login") ![novo_cadastro](https://uploaddeimagens.com.br/images/002/927/512/full/novo_cadastro.png?1603214675 "novo_cadastro")
+
+
 ![](https://uploaddeimagens.com.br/images/002/926/546/full/telasnovas.png?1603154702)
 
 # <h2>Sprint 2 -
@@ -62,9 +66,6 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 2. **Traçar lógica para qual ferramenta usar para realizar o requisito de tempo estimado de chegada ao passageiro.**
 3. **Estilizar as telas feitas até o momento de forma definitiva**
 4. **Documentar de forma tecnica todo o codigo e banco com comentarios nos trechos e blocos no app inventor.**
-
-![novo_login](https://uploaddeimagens.com.br/images/002/927/505/original/novo_login.png?1603214614 "novo_login") ![novo_cadastro](https://uploaddeimagens.com.br/images/002/927/512/full/novo_cadastro.png?1603214675 "novo_cadastro")
-
 
 # <h2> Sprint 3 -
 1. **Entrega da definição de melhor rota calculada pelo App.**
