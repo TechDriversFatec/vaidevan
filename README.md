@@ -25,16 +25,28 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 3. -****Sprint 2 - Início: 19/10/2020 Entrega: 08/11/2020****
 4. -****Sprint 3 - Início: 09/11/2020 Entrega: 29/11/2020****
 5. -****Apresentação final: 30/11/2020 a 06/12/2020****
+<br>
 
-# Tecnologia
+![Tecnologias](https://uploaddeimagens.com.br/images/002/927/152/full/Tecnologias.png?1603204097 "Tecnologias")
+* Gitlab -  Gerenciador de repositório.
+* Figma -  Editor gráfico de vetor e prototipagem de projetos.
+* MIT App Inventor -  Plataforma para desenvolvimento de aplicativos.
+* Firebase -  Plataforma para desenvolvimento de aplicativos e sites.
+* Animaker -  Software de animação de vídeo DIY.
+* Google Meet  -  Serviço de comunicação por vídeo.
+* Microsoft Teams -  Plataforma unificada de comunicação e colaboração que combina bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho.
+* Microsoft Word -   Processador de texto.
+
+# Tecnologia Requisito
 ![logoappinventor](https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png "logoappinventor")
 * App Inventor - Aplicativo de código aberto, originalmente criado pala Google,hoje é mantido pelo Massachusetts Institute of Technology(MIT). É um ambiente de programação visual baseada em blocos que facilita a criação de aplicativos complexos até para uma pessoa leiga.
 * MIT AI2 Companion - Aplicativo emulador para Android.
 * aiStater - Aplicativo aiStarter (emulador de Sistema Android para PC).
 
-# <h2> print 0 -- Tela inicial de cadastro - 
+# <h2> Sprint 0 -- Tela inicial de cadastro - 
 * **Demonstração da tela inicial com login no aplicativo**
-* **Demonstração do cadastro inicial do usuarios (Motorista e Passageiros)**
+* **Demonstração do cadastro inicial do usuarios (Motorista e Passageiros)**<br>
+![login](https://uploaddeimagens.com.br/images/002/927/194/full/Tela_Login_Sprint0.png?1603204988 "login")  ![cadastro](https://uploaddeimagens.com.br/images/002/927/195/full/Tela_Cadastro_Sprint0.png?1603205000 "cadastro")
 
 # <h2> Sprint 1 - Tela Embarque e Desembarque com rota MAPS externo (WAZE, GOOGLE MAPS etc)
 1. **Entrega da tela de gerenciar destinos**
