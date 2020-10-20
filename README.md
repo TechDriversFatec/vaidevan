@@ -43,7 +43,7 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 4. **São listados os destinos cadastrado através de consulta no banco Firebase.**
 5. **Passageiro - É possível fazer apenas o cadastro do destino.**
 
-![](https://uploaddeimagens.com.br/images/002/926/545/full/telasnovas.png?1603154313)
+![](https://uploaddeimagens.com.br/images/002/926/546/full/telasnovas.png?1603154702)
 
 # <h2>Sprint 2 -
 1. **Ajustar QA de testes das telas logins, e banco**
