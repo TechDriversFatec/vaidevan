@@ -36,12 +36,20 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 * **Demonstração da tela inicial com login no aplicativo**
 * **Demonstração do cadastro inicial do usuarios (Motorista e Passageiros)**
 
-# <h2> Sprint 1 -
+# <h2> Sprint 1 - Tela Embarque e Desembarque com rota MAPS externo (WAZE, GOOGLE MAPS etc)
 1. **Entrega da tela de gerenciar destinos**
 2. **Criada tela de cadastro de destino**
 3. **Motorista - É possível fazer o cadastro, alterar e excluir o destino de um passageiro.**
 4. **São listados os destinos cadastrado através de consulta no banco Firebase.**
 5. **Passageiro - É possível fazer apenas o cadastro do destino.**
+
+![](https://uploaddeimagens.com.br/images/002/926/545/full/telasnovas.png?1603154313)
+
 # <h2>Sprint 2 -
+1. **Ajustar QA de testes das telas logins, e banco**
+2. **  Traçar lógica para qual ferramenta usar para realizar o requisito de tempo estimado de chegada ao passageiro **
+3. ** Estilizar as telas feitas até o momento de forma definitiva**
+4. ** documentar de forma tecnica todo o codigo e banco com comentarios nos trechos e blocos no app inventor.**
+
 
 #<h2> Sprint 3 -
