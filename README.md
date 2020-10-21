@@ -1,12 +1,10 @@
 ![](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 # PROJETO INTEGRADOR - FATEC -São Jose do Campos
 ## Grupo Mobteam
-* Anderson Oliveira da Silva Junior 
 * Carlos Fernando de Souza
 * Danilo Silva Lima
 * Douglas Hiromi Nishiama (Master 6º Semestre)
 * Fábio José da Silva 
-* Felipe Gustavo Pais Pereira 
 * Jéssica Helen Helbusto Rosado (Master 6º Semestre)
 * Leonardo Souza Ferrianci 
 * Michelle Cristine dos Santos  
