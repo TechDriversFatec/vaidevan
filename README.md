@@ -6,8 +6,10 @@
 * Douglas Hiromi Nishiama (Master 6º Semestre)
 * Fábio José da Silva 
 * Jéssica Helen Helbusto Rosado (Master 6º Semestre)
+* Junio Luiz Sendreto dos Santos
 * Leonardo Souza Ferrianci 
 * Michelle Cristine dos Santos  
+* Paulo Vitor Lima Domingues da Silva
 # Aplicativo Vaidevan - Necessidade
 O cliente é um motorista autonomo de Van, que necessita de um aplicativo que controle o  serviço de transporte de seus passageiros(clientes fixos e pré-cadastrados)em seu trajeto  pré-determinado, tanto na ida quanto na volta, durante a semana(segunda a sexta feira)
 ## Requisitos
