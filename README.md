@@ -67,6 +67,7 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 3. **Estilizar as telas feitas até o momento de forma definitiva**
 4. **O motorista pode definir, de acordo com sua experiência e condições de trânsito o horário estimado em que chegará na localidade de cada passageiro.**
 5. **O app deve informar ao passageiro a hora prevista de chegada da van (na ida) e qual o horário previsto para entrega (na volta).**
+6. **Inclusão do segundo endereço(ida e volta) do passageiro.**
 
 
 # <h2> Sprint 3 -
