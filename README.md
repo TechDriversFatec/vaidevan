@@ -65,7 +65,7 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 1. **Ajustar QA de testes das telas logins, e banco.**
 2. **Traçar lógica para qual ferramenta usar para realizar o requisito de tempo estimado de chegada ao passageiro.**
 3. **Estilizar as telas feitas até o momento de forma definitiva**
-4. **Documentar de forma tecnica todo o codigo e banco com comentarios nos trechos e blocos no app inventor.**
+
 
 # <h2> Sprint 3 -
 1. **Entrega da definição de melhor rota calculada pelo App.**
