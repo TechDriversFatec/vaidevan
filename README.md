@@ -69,9 +69,16 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 5. **O app deve informar ao passageiro a hora prevista de chegada da van (na ida) e qual o horário previsto para entrega (na volta).**
 6. **Inclusão do segundo endereço(ida e volta) do passageiro.**
 
-![informação_passageiro](https://uploaddeimagens.com.br/imagens/jdiBI1I)
-![lista_passageiro](https://uploaddeimagens.com.br/imagens/pJHjaa4)
-![opções_embarque](https://uploaddeimagens.com.br/imagens/5T2s0eA)
+![](https://uploaddeimagens.com.br/images/002/952/682/original/login.png?1604884869)![](https://uploaddeimagens.com.br/images/002/952/695/original/lista.png?1604885952)
+
+![](https://uploaddeimagens.com.br/images/002/952/661/original/Embarque1.png?1604883569)![](https://uploaddeimagens.com.br/images/002/952/671/original/Embarque2.png?1604884174)
+
+![](https://uploaddeimagens.com.br/images/002/952/678/original/info.png?1604884614)![](https://uploaddeimagens.com.br/images/002/952/668/original/passageiro.png?1604884011)
+
+
+
+
+
 
 # <h2> Sprint 3 -
 1. **Entrega da definição de melhor rota calculada pelo App.**
