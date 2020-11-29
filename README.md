@@ -1,14 +1,14 @@
 ![](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 # PROJETO INTEGRADOR - FATEC -São Jose do Campos
 ## Grupo Mobteam
-* Carlos Fernando de Souza [](url)
-* Danilo Silva Lima [](url)
+* Carlos Fernando de Souza [linkedin](https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/)
+* Danilo Silva Lima [linkedin](https://www.linkedin.com/in/danilo-silva-lima-029bb8142/)
 * Douglas Hiromi Nishiama (Master 6º Semestre) [linkedin](https://www.linkedin.com/in/douglasnishiama/)
 * Fábio José da Silva [](url)
 * Jéssica Helen Helbusto Rosado (Master 6º Semestre) [linkedin](https://www.linkedin.com/in/jessica-rosado)
-* Junio Luiz Sendreto dos Santos [](url)
+* Junio Luiz Sendreto dos Santos [linkedin](www.linkedin.com/in/junio-sendreto)
 * Leonardo Souza Ferrianci [linkedin](https://www.linkedin.com/in/leonardo-ferrianci-a245ba19b/)
-* Michelle Cristine dos Santos [](url)
+* Michelle Cristine dos Santos [linkedin](https://www.linkedin.com/in/michelle-santos-99662375)
 * Paulo Vitor Lima Domingues da Silva [linkedin](https://www.linkedin.com/in/paulo-vítor/)
 # Aplicativo Vaidevan - Necessidade
 O cliente é um motorista autonomo de Van, que necessita de um aplicativo que controle o  serviço de transporte de seus passageiros(clientes fixos e pré-cadastrados)em seu trajeto  pré-determinado, tanto na ida quanto na volta, durante a semana(segunda a sexta feira)
